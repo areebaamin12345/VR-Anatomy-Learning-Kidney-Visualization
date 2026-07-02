@@ -44,6 +44,7 @@ The application is developed in **Unity** using the **XR Interaction Toolkit**, 
   <img src="Images/Show_Animation.jpeg" width="45%">
   <img src="Images/Anatomical_Position.jpeg" width="45%">
 </p>
+---
 # 🛠 Technologies Used
 
 - Unity Game Engine
