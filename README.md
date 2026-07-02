@@ -29,7 +29,21 @@ The application is developed in **Unity** using the **XR Interaction Toolkit**, 
 - 📚 Immersive Learning Experience
 
 ---
+<h2>📸 Screenshots</h2>
 
+<p align="center">
+  <img src="Images/start_screen.jpeg" width="45%">
+  <img src="Images/Navigation_Bar.jpeg" width="45%">
+</p>
+
+<p align="center">
+  <img src="Images/View_Kidney.jpeg" width="45%">
+  <img src="Images/View_Nephron.jpeg" width="45%">
+</p>
+<p align="center">
+  <img src="Images/Show_Animation.jpeg" width="45%">
+  <img src="Images/Anatomical_Position.jpeg" width="45%">
+</p>
 # 🛠 Technologies Used
 
 - Unity Game Engine
