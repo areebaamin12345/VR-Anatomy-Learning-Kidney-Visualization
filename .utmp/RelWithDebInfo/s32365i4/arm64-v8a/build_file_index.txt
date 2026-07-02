@@ -1,0 +1,2 @@
+D:\FYP SOFTWARES\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\FYP SOFTWARES\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

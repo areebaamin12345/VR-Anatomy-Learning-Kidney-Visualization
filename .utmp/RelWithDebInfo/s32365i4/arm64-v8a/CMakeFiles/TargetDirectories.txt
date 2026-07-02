@@ -1,0 +1,5 @@
+D:/FYP SOFTWARES/My project (4)/.utmp/RelWithDebInfo/s32365i4/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/FYP SOFTWARES/My project (4)/.utmp/RelWithDebInfo/s32365i4/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/FYP SOFTWARES/My project (4)/.utmp/RelWithDebInfo/s32365i4/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/FYP SOFTWARES/My project (4)/.utmp/RelWithDebInfo/s32365i4/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/FYP SOFTWARES/My project (4)/.utmp/RelWithDebInfo/s32365i4/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

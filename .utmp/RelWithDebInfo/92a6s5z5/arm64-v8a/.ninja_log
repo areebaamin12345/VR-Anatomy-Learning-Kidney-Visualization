@@ -1,0 +1,19 @@
+# ninja log v5
+51	1128	7863847963117075	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	70e5b6270e3dcdff
+18	1127	7863847963117075	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	42e130c704f08693
+35	1124	7863847963127129	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d3ec912728493aea
+72	1170	7863847963542557	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8150f246e85fbcb7
+64	1140	7863847963274684	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	bbf8b29c0b5903ad
+5	1151	7863847963380250	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e9035e6d1912357f
+58	1363	7863847965512526	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	72ea1393c0e63128
+1448	1561	7863847967583000	C:/Users/User/Downloads/BLENDER HUMAN BODY/My project (4)/My project (4)/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/92a6s5z5/obj/arm64-v8a/libgame.so	6aa23e182321cc53
+29	1447	7863847966334026	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d95c4dbddc8ab193
+49	1914	7881877110817937	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	70e5b6270e3dcdff
+18	1924	7881877110928102	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	42e130c704f08693
+30	1929	7881877111023989	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d3ec912728493aea
+43	1937	7881877111074404	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	bbf8b29c0b5903ad
+23	2007	7881877111671427	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e9035e6d1912357f
+54	2009	7881877111768078	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8150f246e85fbcb7
+38	2163	7881877113243238	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	72ea1393c0e63128
+12	2190	7881877113579761	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d95c4dbddc8ab193
+2190	2389	7881877115634486	C:/Users/User/Downloads/BLENDER HUMAN BODY/My project (4)/My project (4)/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/92a6s5z5/obj/arm64-v8a/libgame.so	6aa23e182321cc53
