@@ -117,7 +117,7 @@ README.md
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/VR-Anatomy-Learning-Kidney-Visualization.git
+git clone https://github.com/areebaamin12345/VR-Anatomy-Learning-Kidney-Visualization.git
 ```
 
 2. Open the project using Unity Hub.
